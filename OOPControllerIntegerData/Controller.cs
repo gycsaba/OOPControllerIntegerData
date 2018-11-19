@@ -12,7 +12,7 @@ namespace ControllerIntegerDataProcessing
         List<int> subjects;
         public Controller()
         {
-            subjects = new List<Int32>();
+            subjects = new List<int>();
         }
         public void readFromFile()
         {
